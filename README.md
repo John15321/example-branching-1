@@ -11,3 +11,5 @@ Change number 4
 Change number 5
 
 Change from branch 2 - 1
+
+Change from branch 2 - 2
